@@ -1,5 +1,5 @@
 # Pointnet
-This is a pytorch implementation of <a href="https://github.com/aryanmikaeili/Pointnet">Pointent</a> model.
+This is a pytorch implementation of <a href="https://arxiv.org/abs/1612.00593">Pointent</a> model.
 
 It can reach 88.37% accuracy for Modelnet40 classification task after 250 epochs of training. 
 
